@@ -3,7 +3,7 @@ import { rm } from 'fs/promises';
 import { HOME } from './index';
 
 const PACKAGE = 'cskburn';
-const VERSION = '1.13.0';
+const VERSION = '1.14.0';
 
 const NAME = `${PACKAGE}-${VERSION}-${process.platform}_${process.arch}.tar.zst`;
 
