@@ -1,6 +1,6 @@
 {
   "name": "@binary/cskburn",
-  "version": "1.0.3-1.15.0",
+  "version": "1.0.4-1.16.0",
   "description": "cskburn",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
