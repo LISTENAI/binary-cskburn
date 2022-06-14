@@ -20,7 +20,8 @@
   "license": "UNLICENSED",
   "dependencies": {
     "@binary/type": "^1.0.4",
-    "@xingrz/download2": "^9.0.0-alpha.4"
+    "@xingrz/download2": "^9.0.0-alpha.4",
+    "detect-libc": "^2.0.1"
   },
   "devDependencies": {
     "@types/jest": "^27.0.2",
