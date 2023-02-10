@@ -4,7 +4,7 @@ import { familySync, MUSL } from 'detect-libc';
 import { HOME } from './index';
 
 const PACKAGE = 'cskburn';
-const VERSION = '1.18.1';
+const VERSION = '1.20.0';
 
 const LIBC = process.platform == 'linux' && familySync() == MUSL ? '-musl' : '';
 const NAME = `${PACKAGE}-${VERSION}-${process.platform}_${process.arch}${LIBC}.tar.zst`;
